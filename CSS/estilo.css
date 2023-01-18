@@ -19,6 +19,10 @@ P{
     margin: 0 0 2em;
 }
 
+header p{
+    color: white;
+}
+
 img{
     max-width: 100%;
 }
